@@ -52,7 +52,7 @@ class RowColumnPage extends StatelessWidget {
                 color: Colors.lightBlue[100],
                 child: Center(
                   child: Image.asset(
-                    'assets/images4.jpg',
+                    'assets/images.jpg',
                     fit: BoxFit.cover,
                     width: 500,
                   ),
